@@ -1,9 +1,17 @@
 ### Hi there 👋
 
-### 🌱 I’m currently learning 
-#### Natural language Processing
-#### Multimodal Modeling(Video-Text)
-####
+### 🌱 My Interest
+- Natural language Processing
+- Multimodal Modeling(Video-Text)
+- Graph Embedding 
+
+### 👯 My projects
+#### KDI Research Center Knowledge Graph Pipeline 
+
+
+### 🔭 I’m currently working on
+#### LG HSAD Russia Market Generation MZ Analysis
+#### KDI Research Center G20 communique Analysis
 
 <!--
 **maxha97/maxha97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
