@@ -3,18 +3,19 @@
 ### 🔭 I’m currently working on
 - [Modeling] Sequence Text to Sequence Video Retrieval Model based on CLIP4CLIP model
 - [Modeling] VQA Task Model based on Korean VQA Dataset  
-- [TextMining] Russia Market Generation MZ Analysis for LG HSAd
-- [TextMining] G20 communique Analysis for KDI Research Center
+- [TextMining] Analysis of Russia Market Generation MZ for LG HSAd
+- [TextMining] Analysis of G20 communique for KDI Research Center
 
 ### 🌱 My Interest
 - Natural language Processing
-- Multimodal Modeling(Video-Text)
-- Graph Embedding 
+- Multimodal (Video-Text, Image-Text)
+- Graph Embedding (Recommendation based on Text)
 
 ### 👯 My projects
 - [Modling, Development] Development of Economic Domain Knowledge Graph Pipeline for KDI Research Center
 - [Modeling] Win-Loss Prediction based on League of Legends Timeseries Data
-- [TextAnalysis] Trend Research based on Yes24 Bookstroe Reviews
+- [TextMining] Trend Research based on Yes24 Bookstore Reviews
+- [Statistical Analysis] Analysis of Fever patterns of mixed vaccines based on FeverCoach Mobile Application
 
 
 
