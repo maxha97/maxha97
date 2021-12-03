@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### 🌱 I’m currently learning 
+#### Natural language Processing
+#### Multimodal Modeling(Video-Text)
+####
+
 <!--
 **maxha97/maxha97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
