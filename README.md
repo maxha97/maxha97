@@ -1,17 +1,23 @@
 ### Hi there 👋
 
+### 🔭 I’m currently working on
+- [Modeling] Sequence Text to Sequence Video Retrieval Model based on CLIP4CLIP model
+- [Modeling] VQA Task Model based on Korean VQA Dataset  
+- [TextMining] Russia Market Generation MZ Analysis for LG HSAd
+- [TextMining] G20 communique Analysis for KDI Research Center
+
 ### 🌱 My Interest
 - Natural language Processing
 - Multimodal Modeling(Video-Text)
 - Graph Embedding 
 
 ### 👯 My projects
-#### KDI Research Center Knowledge Graph Pipeline 
+- [Modling, Development] Development of Economic Domain Knowledge Graph Pipeline for KDI Research Center
+- [Modeling] Win-Loss Prediction based on League of Legends Timeseries Data
+- [TextAnalysis] Trend Research based on Yes24 Bookstroe Reviews
 
 
-### 🔭 I’m currently working on
-#### LG HSAD Russia Market Generation MZ Analysis
-#### KDI Research Center G20 communique Analysis
+
 
 <!--
 **maxha97/maxha97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
