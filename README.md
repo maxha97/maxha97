@@ -8,7 +8,7 @@
 
 ### 🌱 My Interest
 - Natural language Processing
-- Multimodal (Video-Text, Image-Text)
+- Multimodal (Text-Video, Text-Image)
 - Graph Embedding (Recommendation based on Text)
 
 ### 👯 My projects
