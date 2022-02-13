@@ -1,4 +1,6 @@
 ### Hi there 👋
+- Naver BoostCamp 3기(2022) NLP Track 
+- Yonsei Deeptextlab Master's Researcher
 
 ### 🔭 I’m currently working on
 - [Modeling] Sequence Text to Sequence Video Retrieval Model based on CLIP4CLIP model (Private)
@@ -7,7 +9,6 @@
 ### 🌱 My Interest
 - Natural language Processing
 - Multimodal (Text-Video, Text-Image)
-- Graph Embedding (Recommendation based on Text)
 
 ### 👯 My projects
 - [Modling, Development] Development of Economic Domain Knowledge Graph Pipeline for KDI Research Center (Private)
