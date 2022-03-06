@@ -4,7 +4,7 @@
 
 ### 🔭 I’m currently working on
 - [Modeling] Sequence Text to Sequence Video Retrieval Model based on CLIP4CLIP model (Private)
-- [TextMining] Analysis of G20 communique for KDI Research Center
+
 
 ### 🌱 My Interest
 - Natural language Processing
@@ -16,6 +16,7 @@
 - [Modeling] VQA Task Model based on Korean VQA Dataset  
 - [TextMining] Analysis of Russia Market Generation MZ for LG HSAd
 - [TextMining] Trend Research based on Yes24 Bookstore Reviews
+- [TextMining] Analysis of G20 communique for KDI Research Center
 - [Statistical Analysis] Analysis of Fever patterns of mixed vaccines based on FeverCoach Mobile Application
 
 
