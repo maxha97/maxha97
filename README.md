@@ -3,7 +3,7 @@
 - Yonsei Deeptextlab Master's Researcher
 
 ### 🔭 I’m currently working on
-- [Modeling] Sequence Text to Sequence Video Retrieval Model based on CLIP4CLIP model (Private)
+- [Modeling] Sequence Text to Sequence Video Retrieval Model based on UniVL model (Private)
 
 
 ### 🌱 My Interest
